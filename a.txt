@@ -1,3 +1,4 @@
 teste
 entendendo o HEAD
 Esta linha foi motificada no ramo master
+esta linha foi modificada no ramo Pedro
